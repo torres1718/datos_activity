@@ -13,6 +13,7 @@ class recibir_datos : AppCompatActivity() {
 
         val bundle=intent.extras
 
+
         var Nombre=bundle?.getString("nombre")
 
         var Renta=bundle?.getString("renta")

@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 
             var Renta:String=etSueldo.text.toString()
 
+
           var Rentaaplicada:Double=Renta.toDouble()
             var Calculo:Double = Rentaaplicada*0.10
 
