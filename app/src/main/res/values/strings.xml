@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">datos_activity</string>
+    <string name="titulo">CALCULAR RENTA</string>
+    <string name="sueldo">Ingresa tu sueldo por favor</string>
+    <string name="nombre">Ingrese su nombre por favor</string>
+    <string name="enviar">CALCULAR </string>
+    <string name="volver">Volver a registrar nombre y sueldo</string>
+</resources>

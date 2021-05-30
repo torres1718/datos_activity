@@ -1,0 +1,2 @@
+rootProject.name = "datos_activity"
+include ':app'
